@@ -1,8 +1,8 @@
 
-<a href="https://beijiu.ink">
+<a href="https://beijiu.ink" target="_blank">
   <img align="left" alt="leCapsimRy | MyBlog" width="21px" src="https://raw.githubusercontent.com/leCapsimRy/leCapsimRy/master/assets/blog.svg" />
 </a>
-<a href="https://weibo.com/DyrieNnn">
+<a href="https://weibo.com/DyrieNnn" target="_blank">
   <img align="left" alt="leCpsimRy | weibo" width="21px" src="https://raw.githubusercontent.com/leCapsimRy/leCapsimRy/master/assets/weibo.svg" />
 </a>
 
